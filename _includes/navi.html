@@ -1,0 +1,22 @@
+<table cellspacing="0" cellpadding="10" border="0">
+<tbody><tr>
+<td class="sidebar" width="120" align="left">
+
+        {% for p in site.pages %}
+		{% if p.lang == page.lang %}
+		<a {% if p.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ p.url }}">{{ p.navi | default: p.title }}</a><br/>
+		&nbsp;<br/>
+		{% endif %}
+        {% endfor %}
+	{% if page.lang == 'en' %}
+	<a href="/">Suomeksi</a>
+	{% endif %}
+	{% if page.lang == 'fi' %}
+	<a href="/index_en">In English</a>
+	{% endif %}
+
+<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;
+<img src="pix.gif" width="120" height="1">
+</td>
+</tr>
+</tbody></table>
