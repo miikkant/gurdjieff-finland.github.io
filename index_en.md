@@ -1,4 +1,5 @@
 ---
+sort: 0
 lang: en
 layout: default
 title: Gurdjieff Society of Finland SGS ry

@@ -1,4 +1,5 @@
 ---
+sort: 10
 layout: default
 lang: fi
 title: Huomioita todelliseksi tulemisesta

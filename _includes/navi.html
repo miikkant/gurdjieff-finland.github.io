@@ -2,7 +2,7 @@
 <tbody><tr>
 <td class="sidebar" width="120" align="left">
 
-        {% for p in site.pages %}
+        {% for p in site.pages | sort: 'sort' %}
 		{% if p.lang == page.lang %}
 		<a {% if p.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ p.url }}">{{ p.navi | default: p.title }}</a><br/>
 		&nbsp;<br/>

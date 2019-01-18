@@ -32,26 +32,31 @@ the default selection "Commit to the master branch".
 Go to the repository page. Push button "Create a new file".
 
 Give it a short name, and add "_fi.md" to the name. For example "zzz_fi.md". This means it is the Finnish version.
-The pages are ordered, and the home page is named "index", so it will be first on top as long as nothing is before 
-it in the alphabet.
 
 Copy the following text to the top of the file:
 
 ```
 ---
+sort: 25
 lang: fi
 layout: default
 title: Zzz
 ---
 ```
 
-The title will be shown both at the top of the article as well as on the left navigation.
+The value after layout should always be "default".
+
+The pages are ordered by the sort key, ascending order. Value 25 here means it falls between 25 and 30.
+
+You can put any text after the title. The title will be the title of the page, shown at the top of the article.
 
 The navigation is created automatically for both languages, and depends on the value (what is after the colon) of the lang.
 
 Then create a English version page similarly, but name it "_en.md", and instead of "lang: fi", put "lang: en".
 
 If you want, you can also add "navi: Z". In this case this is the title we show in the navigation bar, whereas title is
-on the top of the page.
+on the top of the page. By default, we show the value of the title also in the navigation.
+
+You can also modify the sort key, 
 
 That's it!

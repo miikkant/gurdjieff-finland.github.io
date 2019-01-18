@@ -1,4 +1,5 @@
 ---
+sort: 10
 layout: default
 lang: en
 title: Notes On Becoming

@@ -1,4 +1,5 @@
 ---
+sort: 0
 layout: default
 lang: fi
 title: Suomen Gurdjieff -yhdistys SGS ry

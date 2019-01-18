@@ -1,4 +1,5 @@
 ---
+sort: 20
 layout: default
 lang: fi
 title: Tilaisuudet
