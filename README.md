@@ -111,6 +111,7 @@ Then create a English version page similarly, but name it "_en.md", and instead 
 If you want, you can also add "navi: Z". In this case this is the title we show in the navigation bar, whereas title is
 on the top of the page. By default, we show the value of the title also in the navigation.
 
-You can also modify the sort key, 
+You can also modify the sort key to control the order of the page list on 
+the left side of the web page.
 
 That's it!
