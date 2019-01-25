@@ -100,7 +100,7 @@ title: Zzz
 
 The value after layout should always be "default".
 
-The pages are ordered by the sort key, ascending order. Value 25 here means it falls between 25 and 30.
+The pages are ordered by the sort key, ascending order. Value 25 here means it falls between 20 and 30.
 
 You can put any text after the title. The title will be the title of the page, shown at the top of the article.
 
