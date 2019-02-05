@@ -5,7 +5,7 @@ lang: en
 title: Public Meetings
 ---
 
-## Future Meetings 2019 (dates and locations to be determined): 
+## Future Meetings 2019: 
 
 * Tampere: 21.3. 18:00, Teos & Tulenkantajat -bookstore (Hämeenpuisto 25, 33210 Tampere)
 * Helsinki (possible date in March-April) 
