@@ -41,4 +41,4 @@ tähän suuntaan, mutta eivät ole vielä päättäneet lähteäkö tälle matka
 
 Kirjasen voi ostaa useammasta erikoiskirjakaupasta tai sitä voi tilata suoraan.
 
-Tilataksesi kirjoja suoraan, ota yhteyttä osoitteeseen info@gurdjieff.fi. 
+Tilataksesi kirjoja suoraan, ota yhteyttä osoitteeseen suomengurdjieffseura@gmail.com 
