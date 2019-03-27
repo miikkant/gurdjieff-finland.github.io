@@ -40,4 +40,4 @@ a direction but have yet to decide whether to undertake the journey involved.
 
 Booklet may be purchased from several specialized bookstores or ordered directly.
 
-To order booklets directly, please contact info@gurdjieff.fi. 
+To order booklets directly, please contact suomengurdjieffseura@gmail.com
