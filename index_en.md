@@ -20,3 +20,9 @@ was sent by Gurdjieff to form the Washington  group.
 If you are interested in such a practical approach, you may be able to join
 existing groups or be involved in forming a new group in a community where you
 do not already have one.
+
+
+
+---
+
+please contact: suomengurdjieffseura@gmail.com
