@@ -20,3 +20,8 @@ amerikkalainen, jonka opettajan Gurdjieff lähetti perustamaan Washingtonin ryhm
 Jos olet kiinnostunut käytännöllisistä työvälineistä sinulla on mahdollisuus 
 liittyä johonkin nykyisistä ryhmistä tai olla mukana muodostamassa uutta ryhmää 
 paikkakunnalle, jossa sellaista ei vielä ole.
+
+
+---
+
+Ota yhteyttä: suomengurdjieffseura@gmail.com
