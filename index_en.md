@@ -25,4 +25,4 @@ do not already have one.
 
 ---
 
-please contact: suomengurdjieffseura@gmail.com
+please contact:  gurdjieffsocietyfinland@gmail.com
