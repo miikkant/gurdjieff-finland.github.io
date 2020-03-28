@@ -24,4 +24,4 @@ paikkakunnalle, jossa sellaista ei vielä ole.
 
 ---
 
-Ota yhteyttä: suomengurdjieffseura@gmail.com
+Ota yhteyttä: gurdjieffsocietyfinland@gmail.com
