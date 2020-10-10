@@ -21,6 +21,12 @@ Jos olet kiinnostunut käytännöllisistä työvälineistä sinulla on mahdollis
 liittyä johonkin nykyisistä ryhmistä tai olla mukana muodostamassa uutta ryhmää 
 paikkakunnalle, jossa sellaista ei vielä ole.
 
+---
+
+Huom! Keskiviikkona 21.10.2020 MITÄ SISÄISESTÄ ELÄMÄSTÄNI PUUTTUU? 
+- avoin keskustelutilaisuus Zoomissa 21.10.2020. Mikäli olet kiinnostunut, lähetä
+sähköpostia osoitteeseen gurdjieffsocietyfinland@gmail.com ja saat osallistumiseen
+tarvittavat tiedot muutamaa päivää ennen tilaisuutta.
 
 ---
 
