@@ -23,7 +23,7 @@ johonkin nykyisistä ryhmistä tai olla mukana muodostamassa uutta ryhmää
 seudulle, jossa sellaista ei vielä ole.
 
 - Huom! Keskiviikkona 21.10.2020 MITÄ SISÄISESTÄ ELÄMÄSTÄNI PUUTTUU? 
-        - keskustelutilaisuus Zoomissa
+        - keskustelutilaisuus Zoomissa.
         Mikäli olet kiinnostunut, lähetä sähköpostia osoitteeseeen 
         gurdjieffsocietyfinland@gmail.com ja saat osallistumiseen
-        tarvittavat tiedot muutamaa päivää ennen tilaisuutta
+        tarvittavat tiedot muutamaa päivää ennen tilaisuutta.
